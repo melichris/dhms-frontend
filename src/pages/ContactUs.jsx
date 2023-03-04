@@ -41,7 +41,7 @@ const ContactUs = () => {
                   <i class="bi bi-envelope flex-shrink-0"></i>
                   <div>
                     <h4>Email:</h4>
-                    <p>trams@gmail.com</p>
+                    <p>melichristian51@gmail.com</p>
                   </div>
                 </div>
 
@@ -49,7 +49,7 @@ const ContactUs = () => {
                   <i class="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>Call:</h4>
-                    <p>+2237 657*******</p>
+                    <p>+237 653369392</p>
                   </div>
                 </div>
 
